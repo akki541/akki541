@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akhilesh</h1>
 <h3 align="center">A passionate iOS app developer and ML enthusiast from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akki541&label=Profile%20views&color=0e75b6&style=flat" alt="akki541" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akki541" alt="akki541" /></a> </p>
+
+
 
 - 📫 How to reach me **av.yelamali@gmail.com**
 
@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akki541&show_icons=true&locale=en&layout=compact" alt="akki541" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akki541&show_icons=true&locale=en" alt="akki541" /></p>
+
